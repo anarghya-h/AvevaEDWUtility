@@ -1,0 +1,17 @@
+{
+  "Bukom_DB_Equipment_ECH_Data": "ECH Name",
+  "Bukom_DB_Schedule_Data": "Schedule",
+  "Bukom_DB_FLOC_Equipment_Specs": "Equipment",
+  "Bukom_DB_ComponentSpecs": "Component;Equipment",
+  "Bukom_DB_CircuitSpecs": "Equipment;Circuit",
+  "Bukom_DB_CorrosionLoop_Data": "Corrosion Loop Name",
+  "Bukom_DB_RCMTask_Data": "Failure Mode;ETBC/ETBF Ratio;Equipment;Task ID",
+  "Bukom_DB_Circuit_CML_Data": "Equipment;Circuit;CML;SubCircuit",
+  "Bukom_DB_RCM_Change_Deferral": "Equipment;DocumentNumber",
+  "Bukom_SIF-Design-Taskquery": "SIFName;Tagnumber;FailureMode;TaskTestDefault;TaskConstraintExpression",
+  "Bukom_DB_Component_RBI_Data": "Component;Equipment;Failure Mode",
+  "EQP_S901_P94": "Equipment",
+  "FLOC_S901_P94": "Functional Location",
+  "Notif_S901_P94": "Notification",
+  "Orders_S901_P94": "Order"  
+}
